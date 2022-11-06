@@ -1,0 +1,4 @@
+name: coding_practice
+channels:
+  - defaults
+prefix: /Users/morrislagrand/opt/anaconda3/envs/coding_practice
